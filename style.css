@@ -1,0 +1,46 @@
+body{
+    background-color: cadetblue;
+}
+.container{
+    width: 400px;
+    background-color:rgb(242, 234, 234);
+    text-align: center;
+    padding: 40px;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(60, 61, 61);
+}
+input{
+    width: 300px;
+    height: 30px;
+    outline: none;
+    border:none ;
+    border-radius: 5px;
+    
+}
+button{
+    width: 90px;
+    height: 30px;
+    background-color: cadetblue;
+    border: none;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(32, 112, 115);
+}
+.text ul{
+    position: relative;
+    background-color: white;
+    border-radius: 5px;
+    padding: 7px;
+    text-align: left;
+ }
+ .text ul span{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
+ h1{
+    color: rgb(72, 137, 139);
+ }
